@@ -3,8 +3,8 @@
 Computer Engineering student with an interest in Embedded Systems.
 
 ## 🛠️ Tech Stack & Tools
-- **Languages:** C++, Java, Assembly, Python
-- **Embedded & Hardware:** Microcontrollers, Circuit Analysis, KiCad
+- **Languages:** C++, Java, Assembly, Python, VHDL
+- **Embedded & Hardware:** Microcontrollers, Circuit Analysis, KiCad, Logism, ModelSim, Quartus Prime
 - **Tools & Environments:** Linux (WSL), VS Code, Git/GitHub
 
 ## 🔭 Current Focus
